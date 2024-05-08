@@ -1,2 +1,3 @@
 # mlet_aula
-kjswgdoikehuluhq
+
+## Iniciando os passos no git
